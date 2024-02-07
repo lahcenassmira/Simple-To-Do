@@ -1,4 +1,4 @@
-#Simple-To-Do
+# Simple-To-Do
 SimpleToDo is a minimalist to-do list application built with HTML, CSS, and JavaScript.
 
 ## Features
