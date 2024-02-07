@@ -1,0 +1,91 @@
+.form {
+    background-color: #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-shadow: 0px 2px 5px 8px rgb(18, 4, 223);
+    text-align: center;
+    margin: 20px auto;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.conatiner {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: orangered;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 50px;
+}
+
+body {
+    background-image: url(HTV-Green-Pixel.jpg);
+}
+
+input[type="submit"] {
+    padding: 10px 10px;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+input:focus {
+    outline: none;
+    border: 4px dotted green;
+}
+
+.tasks {
+    background-color: #ddd;
+    padding: 20px;
+    width: fit-content;
+    margin: 20px auto;
+        width: 400px;
+    flex-wrap: wrap;
+    border: 4px dashed blue;
+    border-radius: 10px;
+
+
+
+}
+
+.main-span {
+    background-color: white;
+    border: 1px solid #eee;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: 6px;
+}
+
+.delete {
+    background-color: red;
+    border: 1px solid red;
+    padding: 3px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.delete:hover {
+    background-color: rgb(197, 13, 13);
+}
