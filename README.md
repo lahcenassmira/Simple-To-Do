@@ -10,7 +10,7 @@ SimpleToDo is a minimalist to-do list application built with HTML, CSS, and Java
 ## How to Use
 
 1. Clone this repository to your local machine.
-    ``bash
+    
         git clone   https://github.com/lahcenassmira/Simple-To-Do.git
 3. Open `index.html` in your web browser.
 4. Add tasks using the input field and press "Enter" or click the "Add" button.
